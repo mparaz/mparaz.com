@@ -1,4 +1,4 @@
-mparaz.github.com
-=================
+mparaz.com
+==========
 
-GitHub-hosted site
+Hosted on Netlify.
